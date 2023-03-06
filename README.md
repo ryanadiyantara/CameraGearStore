@@ -3,7 +3,9 @@
 - For the fulfillment of project tasks while studying at CCIT FTUI
 
 # Used:
-- Ms. Visual Studio Code
+- Apache Netbeans IDE 13
+- JDK 18
+- Microsoft SQL Server SM 18
 
 # Reference:
 - From what was taught by the teachers at CCIT FTUI
