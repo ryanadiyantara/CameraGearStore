@@ -3,7 +3,7 @@
 - For the fulfillment of project tasks while studying at CCIT FTUI
 
 # Used:
-- Netbeans IDE 13
+- Apache Netbeans IDE 13
 - JDK 18
 - Microsoft SQL Server SM 18
 
