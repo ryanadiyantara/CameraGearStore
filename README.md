@@ -1,5 +1,5 @@
 # Backgrounds:
-- For learn about Website Programming
+- For learn about Java Programming with Microsoft SQL Server
 - For the fulfillment of project tasks while studying at CCIT FTUI
 
 # Used:
